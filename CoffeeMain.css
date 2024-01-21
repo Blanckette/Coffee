@@ -96,7 +96,7 @@ nav a {
 	display: flex;
 	justify-content: center;
 
-	background-image: url("Coffee assets/Header-Pic.jpeg");
+	background-image: url("coffee_assets/Header-Pic.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: bottom;
